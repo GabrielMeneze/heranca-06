@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\06-heran\bin\Debug\netcoreapp3.1\06-heran.exe
+C:\Users\gabriel\Documents\GitHub\06-heran\bin\Debug\netcoreapp3.1\06-heran.deps.json
+C:\Users\gabriel\Documents\GitHub\06-heran\bin\Debug\netcoreapp3.1\06-heran.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\06-heran\bin\Debug\netcoreapp3.1\06-heran.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\06-heran\bin\Debug\netcoreapp3.1\06-heran.dll
+C:\Users\gabriel\Documents\GitHub\06-heran\bin\Debug\netcoreapp3.1\06-heran.pdb
+C:\Users\gabriel\Documents\GitHub\06-heran\obj\Debug\netcoreapp3.1\06-heran.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\06-heran\obj\Debug\netcoreapp3.1\06-heran.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\06-heran\obj\Debug\netcoreapp3.1\06-heran.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\06-heran\obj\Debug\netcoreapp3.1\06-heran.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\06-heran\obj\Debug\netcoreapp3.1\06-heran.dll
+C:\Users\gabriel\Documents\GitHub\06-heran\obj\Debug\netcoreapp3.1\06-heran.pdb
+C:\Users\gabriel\Documents\GitHub\06-heran\obj\Debug\netcoreapp3.1\06-heran.genruntimeconfig.cache
